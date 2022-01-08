@@ -324,7 +324,7 @@ img {
   width: 100px;
   height: 100px;
   margin: -50px auto;
-  background-image: url(/CSS/img/prices.png);
+  background-image: url(/img/prices.png);
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
