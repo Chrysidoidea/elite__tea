@@ -1,0 +1,69 @@
+.stock {
+  width: 573px;
+  height: 331px;
+  background: white;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  border-radius: 8px;
+  border: 1px solid #595959;
+  -webkit-box-shadow: -3px -7px 9px -3px rgba(34, 60, 80, 0.2);
+          box-shadow: -3px -7px 9px -3px rgba(34, 60, 80, 0.2);
+}
+
+.discount__text {
+  font-family: 'Open Sans';
+  font-weight: bold;
+  text-align: center;
+  color: #393d3f;
+}
+
+.discount__comf {
+  font-family: 'comfortaa';
+  font-weight: bold;
+}
+
+.six__ten {
+  font-weight: bold;
+  color: rgba(57, 61, 63, 0.31);
+  text-decoration: line-through;
+  font-size: 14px;
+}
+
+.last__disc {
+  font-weight: normal;
+}
+
+.stock__warning {
+  font-family: 'Open Sans';
+  text-align: center;
+  margin-top: 39px;
+  margin-bottom: 4px;
+}
+
+.stock__content-discount {
+  text-align: center;
+}
+
+.stock__timer {
+  font-size: 70px;
+  font-family: 'comfortaa';
+  font-weight: normal;
+  display: inline-block;
+  color: #393d3f;
+}
+
+.stock__btn {
+  padding: 15px 15px;
+  margin: 5px 180px 0px 180px;
+  border-radius: 10px;
+  display: block;
+  background: #ffd275;
+  text-decoration: none;
+  color: #000000;
+}
+
+.stock__btn:hover {
+  background: #ffd175bd;
+}
+/*# sourceMappingURL=stock.css.map */

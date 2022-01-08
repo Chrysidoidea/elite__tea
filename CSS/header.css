@@ -1,0 +1,64 @@
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding-top: 15px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: white;
+}
+
+.elite_tea {
+  text-decoration: none;
+  font-size: 36px;
+  color: white;
+}
+
+.phone {
+  text-decoration: none;
+  -webkit-text-decoration-style: none;
+          text-decoration-style: none;
+  color: white;
+  font-size: 28px;
+}
+
+.phone__numb {
+  padding-bottom: 15px;
+}
+
+.btn__header {
+  color: white;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  background: #ffffff30;
+  border: 1px solid #ffffff40;
+  border-radius: 10px;
+  padding: 10px 10px;
+  font-size: 16px;
+  margin: 15px 0px 5px 0px;
+}
+
+.btn__header:hover {
+  background: #ffffff25;
+}
+
+.top {
+  height: 555px;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url(/CSS/img/layer-3.png) no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/CSS/img/layer-3.png) no-repeat;
+  background-size: cover;
+}
+
+.main__logo {
+  color: white;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.lol {
+  color: rgba(255, 255, 255, 0.822);
+}
+/*# sourceMappingURL=header.css.map */

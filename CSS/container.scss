@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1918px;
+  margin: 0 auto;
+}
+.container__small {
+  display: flex;
+  max-width: 1200px;
+  flex-direction: column;
+  margin: 0 auto;
+}
+.container__tea-content {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.container__reason {
+  display: flex;
+  max-width: 1200px;
+  flex-direction: column;
+  margin: 0 auto;
+  align-items: center;
+}

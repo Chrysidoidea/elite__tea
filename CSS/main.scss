@@ -1,0 +1,14 @@
+$contWidth: 1020px;
+$BaseFontSize: 18px;
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css");
+
+// FONTS
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Open+Sans:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap");
+@import "header";
+@import "layout";
+@import "stock";
+@import "container";
+@import "teacontent";
+@import "footer";
